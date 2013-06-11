@@ -4,6 +4,6 @@ class KarunsController < ApplicationController
     redirect_to demos_path
   end
 
-'Tesing text'
+'Hello'
 
 end
