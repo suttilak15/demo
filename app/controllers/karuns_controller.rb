@@ -1,0 +1,3 @@
+class KarunsController < ApplicationController
+
+end
